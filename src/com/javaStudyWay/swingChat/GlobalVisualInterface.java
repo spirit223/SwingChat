@@ -1,4 +1,4 @@
-package chat;
+package com.javaStudyWay.swingChat;
 
 import javax.swing.*;
 import java.awt.*;

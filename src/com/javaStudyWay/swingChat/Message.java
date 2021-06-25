@@ -1,4 +1,4 @@
-package chat;
+package com.javaStudyWay.swingChat;
 
 import java.io.Serializable;
 
